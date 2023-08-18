@@ -1,0 +1,11 @@
+body{ 
+ background-image:url("brickwall.jpg");   
+}
+
+canvas {
+    border-width:5px;
+    border-color: blueviolet; 
+    border-style: solid;
+}
+
+
